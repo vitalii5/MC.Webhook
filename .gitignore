@@ -1,1 +1,23 @@
-/tmp
+*.suo
+*.user
+/.vs
+/.vscode
+/packages
+/sh.exe.stackdump
+
+bin
+obj
+
+/MyCarrier.API/PDF Storage
+/node_modules
+/MyCarrier.Web/dist
+/MyCarrier.Web/prod
+/MyCarrier.Web/src/aot
+/MyCarrier.Web/node_modules
+/MyCarrier.Web/node_modules*
+#/MyCarrier.Web/package-lock.json
+# MyCarrier.Web/.vscode/ removed according to new configuration
+/MyCarrier.Web/.angulardoc.json
+/MyCarrier.Functions/MyCarrier.Functions.ReportsGenerator/.vs
+/MyCarrier.Functions/MyCarrier.Functions.ReportsGenerator/.vscode
+/.idea/

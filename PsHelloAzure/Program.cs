@@ -12,6 +12,7 @@ namespace PsHelloAzure
 {
     public class Program
     {
+        //just a simple comment
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
